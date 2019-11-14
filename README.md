@@ -1,4 +1,4 @@
-# R-project1
+# R-project1  (INTRUSION DETECTOR LEARNING)
 Here is the resource link: http://kdd.ics.uci.edu/databases/kddcup99/task.html
 A complete listing of the set of features defined for the connection records：
 Table 1: Basic features of individual TCP connections.
